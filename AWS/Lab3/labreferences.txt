@@ -1,0 +1,26 @@
+
+Dev s3 bucket name = cfst-2132-10ffbed0a3478a88d900b27eeda-s3bucketdev-1tyohc24gx0jf
+
+Prod s3 bucket name = cfst-2132-10ffbed0a3478a88d900b27eed-s3bucketprod-z4rrdhmzl1fo
+
+Engineering s3 bucket name = cfst-2132-10ffbed0a3478a88d90-s3bucketengineering-1rwp20h6t8bq
+
+Secret s3 bucket name = cfst-2132-10ffbed0a3478a88d900b27e-s3bucketsecret-1ir18lqz1ck5a
+
+
+Access Key - Captain Kirk = AKIA3Q6GFJRWJGCAEXZH
+
+Secret Access Key - Captain Kirk = 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
+
+
+Access Key - Engineer Scotty = AKIA3Q6GFJRWF2JKJ6VF
+
+Secret Access Key - Engineer Scotty = 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
+
+"Arn": "arn:aws:iam::792300178540:policy/DevS3ReadAccess",  
+
+Deafult version ID : v1
+
+Instance ID of Web Server: i-00a56d550e1ede9ff 
+
+ aws ec2 describe-instances --instance-ids i-00a56d550e1ede9ff          
